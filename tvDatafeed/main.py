@@ -24,6 +24,7 @@ class Interval(enum.Enum):
     in_15_minute = "15"
     in_30_minute = "30"
     in_45_minute = "45"
+    in_75_minute = "75"
     in_1_hour = "1H"
     in_2_hour = "2H"
     in_3_hour = "3H"
